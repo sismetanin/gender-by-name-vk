@@ -1,4 +1,4 @@
-# Gender Detection of VKontakte Users by Full Name in Russian/English
+# Detecting Gender of VKontakte Users by Full Names in Russian/English
 
 
 ## Data
