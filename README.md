@@ -1,4 +1,4 @@
-# Gender Detection of VKomtakte Users by Full Name 
+# Gender Detection of VKontakte Users by Full Name 
 
 
 ## Data
